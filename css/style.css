@@ -1,0 +1,31 @@
+@import url("components/card.css");
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Open+Sans:400,600,700,800");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css"); 
+
+
+h1,h2,h3 {
+	font-family: 'open Sans', sans-serif;
+	font-weight: bold; 
+}
+a {
+	text-decoration: none;
+}
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+a:hover {
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+}
+
+p {
+	text-align: justify;
+}
